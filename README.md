@@ -1,5 +1,5 @@
 # RSA Factoring Challenge :cat:
-This repo is just an attempt to read in and factorize a file of numbers.
+This repo is created as a challenge to read in and factorize a file of numbers.
 
 ## Description of what each file shows:
 * factors - the program to factorize (Usage: time ./factors tests/test00)
@@ -10,4 +10,4 @@ This repo is just an attempt to read in and factorize a file of numbers.
 
 ## Author :octocat:
 
-[Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
+[Linkedin](https://www.linkedin.com/in/preciousnwaoha04/) | [Twitter](https://twitter.com/_preciousnwaoha) | [GitHub](https://github.com/preciousnwaoha)
